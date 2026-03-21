@@ -1,0 +1,34 @@
+baseURL = "https://你的用户名.github.io/"
+languageCode = "zh-cn"
+title = "我的博客"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+[params.homeInfoParams]
+  Title = "欢迎 👋"
+  Content = "这里是技术分享与生活记录"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/你的用户名"
+
+[params.assets]
+  favicon = "/favicon.ico"
+
+[params.cover]
+  hidden = false
+  hiddenInList = false
+  hiddenInSingle = false
+
+[languages]
+  [languages.zh-cn]
+    languageName = "中文"
+    weight = 1
