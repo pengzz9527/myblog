@@ -1,1 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on 我的博客</title><link>https://pengzz9527.github.io/myblog/posts/</link><description>Recent content in Posts on 我的博客</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://pengzz9527.github.io/myblog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://pengzz9527.github.io/myblog/posts/hello-world/</link><pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate><guid>https://pengzz9527.github.io/myblog/posts/hello-world/</guid><description>我的第一篇博客文章</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on 我的博客</title><link>https://pengzz9527.github.io/myblog/posts/</link><description>Recent content in Posts on 我的博客</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://pengzz9527.github.io/myblog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://pengzz9527.github.io/myblog/posts/hello-world/</link><pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate><guid>https://pengzz9527.github.io/myblog/posts/hello-world/</guid><description>我的第一篇博客文章</description></item><item><title/><link>https://pengzz9527.github.io/myblog/posts/%E9%98%B3%E5%8F%B0%E8%8A%B1%E5%9B%AD_%E5%9B%BE%E6%96%87%E7%89%88/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pengzz9527.github.io/myblog/posts/%E9%98%B3%E5%8F%B0%E8%8A%B1%E5%9B%AD_%E5%9B%BE%E6%96%87%E7%89%88/</guid><description>&lt;h1 id="-阳台花园城市种植完全指南"&gt;🌿 阳台花园：城市种植完全指南&lt;/h1&gt;
+&lt;h2 id="在小空间里创造绿色天堂"&gt;在小空间里创造绿色天堂&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id="封面设计"&gt;封面设计&lt;/h2&gt;
+&lt;h3 id="封面图片描述"&gt;封面图片描述&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;场景：&lt;/strong&gt; 阳光明媚的现代阳台，早晨8点，金色阳光洒在绿植上
+&lt;strong&gt;元素：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;左侧：垂直花架，种植着生菜、薄荷、罗勒&lt;/li&gt;
+&lt;li&gt;中央：木制种植箱，番茄和辣椒硕果累累&lt;/li&gt;
+&lt;li&gt;右侧：休闲区，白色小桌椅，一杯咖啡&lt;/li&gt;
+&lt;li&gt;背景：城市天际线，蓝天白云&lt;/li&gt;
+&lt;li&gt;前景：女主人在采摘新鲜蔬菜，笑容灿烂&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;配色方案：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;主色调：清新绿 (#4CAF50) + 温暖白 (#FFFFFF)&lt;/li&gt;
+&lt;li&gt;点缀色：活力橙 (#FF9800) + 天空蓝 (#2196F3)&lt;/li&gt;
+&lt;li&gt;文字：深灰 (#333333) + 金色 (#FFD700)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;标题设计：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;主标题：&lt;strong&gt;阳台花园&lt;/strong&gt;（手写字体，绿色渐变）&lt;/li&gt;
+&lt;li&gt;副标题：&lt;strong&gt;从零开始的种植乐趣&lt;/strong&gt;（简洁现代字体）&lt;/li&gt;
+&lt;li&gt;宣传语：&lt;strong&gt;30天打造你的城市绿洲&lt;/strong&gt;（小字，金色）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="内页设计模板"&gt;内页设计模板&lt;/h2&gt;
+&lt;h3 id="页面布局示例"&gt;页面布局示例&lt;/h3&gt;
+&lt;h4 id="左页图文结合"&gt;左页：图文结合&lt;/h4&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;┌─────────────────────────────────┐
+│ │
+│ [大幅精美图片] │
+│ 图片说明：简洁明了 │
+│ │
+├─────────────────────────────────┤
+│ 正文内容 │
+│ • 要点1：简洁有力 │
+│ • 要点2：实用建议 │
+│ • 要点3：注意事项 │
+│ │
+│ 小贴士：💡 实用技巧 │
+└─────────────────────────────────┘
+&lt;/code&gt;&lt;/pre&gt;&lt;h4 id="右页步骤图解"&gt;右页：步骤图解&lt;/h4&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;┌─────────────────────────────────┐
+│ 步骤标题 │
+│ │
+│ 1. [步骤图1] 文字说明 │
+│ 2. [步骤图2] 文字说明 │
+│ 3. [步骤图3] 文字说明 │
+│ 4. [步骤图4] 文字说明 │
+│ │
+│ 所需时间：⏰ 30分钟 │
+│ 难度等级：⭐☆☆☆☆ (简单) │
+└─────────────────────────────────┘
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;h2 id="第一章阳台种植入门"&gt;第一章：阳台种植入门&lt;/h2&gt;
+&lt;h3 id="图片1阳台改造前后对比"&gt;图片1：阳台改造前后对比&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;图片描述：&lt;/strong&gt;&lt;/p&gt;</description></item></channel></rss>
