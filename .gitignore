@@ -1,3 +1,11 @@
-/public/
-/resources/
-/.hugo_build.lock
+# Build output
+public/
+resources/
+# Hugo lock file
+hugo.livereload.tmp
+# OS files
+.DS_Store
+Thumbs.db
+# Theme (use submodule instead)
+# Temp files
+*.tmp
